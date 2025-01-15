@@ -2,17 +2,6 @@
 
 <h2><b>Empowering Minds Through Code 🖥️.</b></h2>
 
-
-| TECH SESSIONS @SMIT                                                                                         |
-| :---------------------------------------------------------------------------------------------------------- |
-| [AI_n_DataScience](https://github.com/Ahmadjajja/AI_n_DataScience) (Current)                                |
-| [GenAI-Chatbot 1.0](https://github.com/Ahmadjajja/AI-Chatbot) (Completed)                                     |
-| [Full_Stack_Development_1.0](https://github.com/Ahmadjajja/SMIT-Web-and-Mobile-Batch7) (Completed)          |
-| [Backend_Development_1.0](https://github.com/Ahmadjajja/Backend_Development.git) (Completed)                |
-| [Web Designing Bootcamp 1.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_A) (Completed)        |
-| [Web Designing Bootcamp 2.0](https://github.com/Ahmadjajja/Web_Designing_Crash_Course_B) (Completed)        |
-| [Frontend_Web_Development_1.0](https://github.com/Ahmadjajja/SMIT-WMA-6-A-E) (Completed)                    |
-| [Frontend_Mobile_Development_1.0](https://github.com/Ahmadjajja/Mobile_Application_Development) (Completed) |
 | **TECH SESSIONS @iCodeGuru**                                                                                    |
 | [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Completed)     |
 | [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Completed)             |
