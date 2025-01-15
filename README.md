@@ -2,9 +2,11 @@
 
 <h2><b>Empowering Minds Through Code 🖥️.</b></h2>
 
-| **TECH SESSIONS @iCodeGuru**                                                                                    |
-| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Completed)     |
-| [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Completed)             |
+| **TECH SESSIONS @iCodeGuru**                                                                                      |
+| ------------------------------------------------------------------------------------------------------------------ |
+| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Completed)          |
+| [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Completed) |
+
 
 - Contributed to local/global startups.
 - **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and cutting-edge technologies.
