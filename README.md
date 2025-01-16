@@ -4,8 +4,8 @@
 
 | **TECH SESSIONS @iCodeGuru**                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------ |
-| [DSA(LeetCode)_Volunteer_Teaching](https://github.com/Ahmadjajja/LeetCode_Volunteer_Teaching) (Completed)          |
-| [ML_and_its-privacy-implications](https://github.com/Ahmadjajja/Machine-Learning_and_its-privacy-implications) (Completed) |
+| [IELTS_Exams_Volunteer_Teaching](https://github.com/MohSaqlainn/IELTS_exams_Volunteer-teaching) (On Going)          |
+| [Master DSA from Begineer to Advance](#) (Completed) |
 
 
 - Contributed to local/global startups.
