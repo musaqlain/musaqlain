@@ -9,16 +9,11 @@
 | [IELTS_Exams_Volunteer_Teaching](https://github.com/MohSaqlainn/IELTS_exams_Volunteer-teaching) (On Going)          |
 
 
-- Contributed to local/global startups.
-- **@[SMIT](https://www.linkedin.com/feed/update/urn:li:activity:7094647856233365504/)**: Trained 2000+ students to learn programming and cutting-edge technologies.
-- If you want to see how I provide training to my students @SMIT, have a look → **[**👀**](https://drive.google.com/file/d/1VoW3VGwb0dlfR0XMFlPWOvK1b47_CcIK/view)**.
-- Solved 300+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/ahmadjajja86/)**.
-- **@[iCodeGuru](https://icodeguru.weebly.com/)**: Offered volunteer teaching in Python and DSA, emphasizing LeetCode.
-- **@lablab.ai**: [Participated](https://lablab.ai/u/@ahmad_jajja288) in multiple AI International Hackathons with a global team of six.
-- **@lablab.ai**: [Winner](https://www.linkedin.com/feed/update/urn:li:activity:7176624410651504641/) of an International Hackathon(Unhallucinate Challange).
-- **@Stanford University**: [Selected](https://www.linkedin.com/feed/update/urn:li:activity:7186385467846639620/) as a Section Leader to teach Python to 100+ international students, then **[promoted to Section Leader Mentor](https://www.linkedin.com/posts/ahmad-jajja_stanfordabrcodeabrinabrplaceabrlearnings-activity-7195142429073633281-zNhV/?utm_source=share&utm_medium=member_desktop)** to provide one-on-one support.
-- **@Harvard University(CS50x_PuzzleDay_Winner)**: Our team [won 1st place](https://www.linkedin.com/feed/update/urn:li:activity:7184212040717131778/) at CS50x Puzzle Day 2024 by solving 9/9 complex
-puzzles.
+- Contributed to local/global startups as Software Engineer.
+- Solved 175+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/MuhammadSaqlain-Dev/)**.
+- **@[iCodeGuru](https://icode.guru/)**: Offered volunteer teaching in Python and DSA, IELTS and moderated many sessions.
+- **@lablab.ai**: [Participated/ Lead](https://lablab.ai/u/@muhammad_saqlain937) in multiple AI International Hackathons with a global team of six.
+- Participated in various international competitive programming contests, including the **UC Berkeley Calico Competition, META Hacker Cup 2024, ICPC International 2024, and MIT Informatics Tournament 2025**, achieving strong performance in each.
 
 <h2><i>💻 Tech Stack and Tools</i></h2>
 
