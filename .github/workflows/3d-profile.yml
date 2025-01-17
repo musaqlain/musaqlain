@@ -15,10 +15,11 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+          MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
-          run: |
-            git config user.name "Moh Saqlainn"
-            git config user.email "2mesaqlain@gmail.com"
-            git add -A .
-            git commit -m "Updated 3D contribution graph"
-            git push https://MohSaqlainn:${{ secrets.PERSONAL_3D_GITHUB_TOKEN }}@github.com/MohSaqlainn/MohSaqlainn.git
+        run: |
+          git config user.name MohSaqlainn
+          git config user.email bsf2101223@ue.edu.pk
+          git add -A .
+          git commit -m "Personal 3d Contributions images updated"
+          git push
