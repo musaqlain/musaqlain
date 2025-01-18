@@ -4,7 +4,7 @@
 
 | **TECH SESSIONS @iCodeGuru**                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------ |
-| [Codeforces for Competitive Programming](#) (Starting in few weeks) |
+| [Codeforces for Competitive Programming](#) (Planning to start) |
 | [Mastering DSA from Begineer to Advance](#) (Starting this Monday) |
 | [IELTS_Exams_Volunteer_Teaching](https://github.com/MohSaqlainn/IELTS_exams_Volunteer-teaching) (On Going)          |
 
