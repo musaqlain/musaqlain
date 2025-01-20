@@ -1,4 +1,4 @@
-# Software Engineer, and Tech Trainer
+# Software Engineer, Competitive Programmer and Tech Trainer
 
 <h2><b>Empowering Minds Through Code 🖥️.</b></h2>
 
