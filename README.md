@@ -1,6 +1,6 @@
 # Software Engineer, Competitive Programmer and Tech Trainer
 
-<h2><b>Empowering Minds Through Code 🖥️.</b></h2>
+<h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
 | **TECH SESSIONS @iCodeGuru**                                                                                      |
 | ------------------------------------------------------------------------------------------------------------------ |
