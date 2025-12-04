@@ -2,72 +2,15 @@
 
 <h2><b>Empowering Minds Through Code 🖥️</b></h2>
 
-| **10AM weekend leetcode crash course classes** |
-| :--- |
-| [Week 1 Day 2: Binary Search Tree [1:18 to end]](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1280236762951264&rdid=LIxkHjW2Hm5s9o6n) |
-| [Week 2 Day 1: Preorder and Inorder Traversal [50:00 to end]](https://www.facebook.com/watch/live/?ref=watch_permalink&v=513010901285447) |
-| [Week 2 Day 2: Lowest Common Ancestor of a BST](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1458864394747042) |
-| [Week 3 Day 1: Scheduling Algorithm [45:00 to end]](https://www.facebook.com/share/v/bFrfmZMr8FX4kXGa/) |
-| [Week 3 Day 2: Topological Sorting Algorithm \| DFS \| BFS \| Undirected graphs [1:23 - end]](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1206568573701315) |
-| [Week 5 Day 1: Backtracking [45:00 - end]](https://www.facebook.com/watch/live/?ref=watch_permalink&v=482928101219000) |
-| [Week 6 Day 1: Recursion \| DFS \| Best time to buy and sell stock](https://www.facebook.com/watch/live/?ref=watch_permalink&v=452249907814460) |
-| [Week 6 Day 2: How to Approach an Algorithmic problem \| Step by Step Approach](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3822487664674716) |
-| [Week 7 Day 1: Interleaving Strings \| Recursion \| DFS \| Memoization](https://www.facebook.com/iCodeguru/videos/1912417982517534/) |
-| [Week 7 Day 2: Memoization DP \| Matrix](https://www.facebook.com/iCodeguru/videos/913328834164764/) |
-| **9AM weekdays dsa classes** |
-| [Week 1 Day 1](https://www.facebook.com/share/v/gaHdkqz3TptQnJGZ/) |
-| [Week 1 Day 2](https://www.facebook.com/iCodeguru/videos/1828589170957931/) |
-| [Week 1 Day 5](https://www.facebook.com/iCodeguru/videos/763219225757060/) |
-| [Week 2 Day 1](https://www.facebook.com/iCodeguru/videos/1889326324919930/) |
-| [Week 2 Day 1](https://www.facebook.com/iCodeguru/videos/408551482200818/) |
-| [Week 2 Day 2](https://www.facebook.com/iCodeguru/videos/843271281069796/) |
-| [Week 2 Day 3](https://www.facebook.com/iCodeguru/videos/1151321679510475/) |
-| [Week 2 Day 4](https://www.facebook.com/iCodeguru/videos/863281545707140/) |
-| [Week 2 Day 5](https://www.facebook.com/iCodeguru/videos/794449629162205/) |
-| [Week 3 Day 1](https://www.facebook.com/iCodeguru/videos/409667202104324/) |
-| [Week 3 Day 5](https://www.facebook.com/iCodeguru/videos/991302216122492/) |
-| [Week 4 Day 1](https://www.facebook.com/iCodeguru/videos/385353554565614/) |
-| [Week 4 Day 2](https://www.facebook.com/iCodeguru/videos/1234272844605423/) |
-| [Week 4 Day 3](https://www.facebook.com/share/v/svqcZD8EGY41hyP3/) |
-| [Week 4 Day 5](https://www.facebook.com/iCodeguru/videos/1182241933109590/) |
-| [Week 5 Day 1](https://www.facebook.com/iCodeguru/videos/800773178838246/) |
-| [Week 5 Day 2](https://www.facebook.com/iCodeguru/videos/856998569687930/) |
-| [Week 5 Day 3](https://www.facebook.com/iCodeguru/videos/347118865161283/) |
-| [Week 5 Day 4](https://www.facebook.com/iCodeguru/videos/983277393595715/) |
-| [Week 6 Day 1](https://www.facebook.com/share/v/1PoR4AiEdEQhQBmH/) |
-| [Week 6 Day 2](https://www.facebook.com/iCodeguru/videos/1577325416182066/) |
-| [Week 6 Day 3](https://www.facebook.com/iCodeguru/videos/485019524485313/) |
-| [Week 6 Day 5](https://www.facebook.com/iCodeguru/videos/1295973164710652/) |
-| [Week 7 Day 2](https://www.facebook.com/iCodeguru/videos/2213567865690427/) |
-| [Week 7 Day 3](https://www.facebook.com/share/v/S6fr8SXP8E4xD4HE/) |
-| [Week 7 Day 5](https://www.facebook.com/share/v/ANRu9hkb2323Mb5x/) |
-| [Week 8 Day 1](https://www.facebook.com/iCodeguru/videos/414013561180383/) |
-| [Week 8 Day 2](https://www.facebook.com/iCodeguru/videos/472102995589085/) |
-| [Week 8 Day 4](https://www.facebook.com/iCodeguru/videos/26683206071292885/) |
-| [Week 8 Day 5](https://www.facebook.com/share/v/syEHZbsshu6dM4fz/) |
-| [Week 9 Day 1](https://www.facebook.com/iCodeguru/videos/882091180447361/) |
-| [Week 9 Day 2](https://www.facebook.com/share/v/ALtfgH2BCVE4vMox/) |
-| [Week 9 Day 3](https://www.facebook.com/iCodeguru/videos/7998535383567962/) |
-| **Workshops** |
-| [Mastering Databricks and Apache Spark - Build ETL Data Pipelines](https://fb.watch/wGRC_eQcKQ/) |
-| **4pm IELTS** |
-| [Day 1: Ielts Introduction](https://fb.watch/wZ1Lnf9NjM/) |
-| [Day 2: Ielts Listening Exercise](https://fb.watch/wZ1EKcRSak/) |
-| [Day 3 : Listening Exercise and Qna](https://fb.watch/w_8Xlz5ez-/) |
-| Day 4 |
-| Day 5 |
-| **Track2: 2PM PKT IELTS \| Writing Practice Sessions \| 29th Sep 2025** |
-| [Day 1](https://www.youtube.com/watch?v=BtGEOdt1mnQ&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=1&pp=iAQB) |
-| [Day 2](https://www.youtube.com/watch?v=ieHWnw9qbtw&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=2&pp=iAQB0gcJCRUKAYcqIYzv) |
-| [Day 3](https://www.youtube.com/watch?v=4DIyRNrs5Ug&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=3&pp=iAQB) |
-| [Day 4](https://www.youtube.com/watch?v=YhGEShgid1Y&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=4&pp=iAQB) |
-| [Day 5](https://www.youtube.com/watch?v=gstzvBDFzYU&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=5&pp=iAQB) |
-| **1-Week IELTS Writing Practice Sessions** |
-| [Day 1: Introduction to Writing Task 1 (Muhammad Saqlain)](https://youtu.be/gstzvBDFzYU?si=SXZERh5AIiz4IQfx) |
-| [Day 2: Introduction to Writing Task 2 (Muhammad Saqlain)](https://youtu.be/YhGEShgid1Y?si=mk1LGnMr8tE5CcKU) |
-| [Day 3: Practice Day (Task 1 + Task 2) (Muhammad Saqlain)](https://youtu.be/4DIyRNrs5Ug?si=aoaQF6wrXPwOQFmu) |
-| [Day 4: Timed Practice (Simulated Conditions) (Muhammad Saqlain)](https://www.youtube.com/watch?v=XlKryGIlp1c&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=4) |
-| [Day 5: Final Mock Test + Reflection (Muhammad Saqlain)](https://youtu.be/ieHWnw9qbtw?si=cKVynmj-XSJ9myoP) |
+| **Course** | **Sessions** |
+| :--- | :--- |
+| **LeetCode Crash Course** | [W1-D2: BST](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1280236762951264&rdid=LIxkHjW2Hm5s9o6n) • [W2-D1: Tree Traversal](https://www.facebook.com/watch/live/?ref=watch_permalink&v=513010901285447) • [W2-D2: LCA of BST](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1458864394747042) • [W3-D1: Scheduling Algo](https://www.facebook.com/share/v/bFrfmZMr8FX4kXGa/)<br>[W3-D2: Topo Sort/Graphs](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1206568573701315) • [W5-D1: Backtracking](https://www.facebook.com/watch/live/?ref=watch_permalink&v=482928101219000) • [W6-D1: Recursion/Stock](https://www.facebook.com/watch/live/?ref=watch_permalink&v=452249907814460) • [W6-D2: Step-by-Step Approach](https://www.facebook.com/watch/live/?ref=watch_permalink&v=3822487664674716)<br>[W7-D1: Interleaving Strings/DP](https://www.facebook.com/iCodeguru/videos/1912417982517534/) • [W7-D2: Memoization/Matrix](https://www.facebook.com/iCodeguru/videos/913328834164764/) |
+| **DSA Weekdays** | **W1:** [D1](https://www.facebook.com/share/v/gaHdkqz3TptQnJGZ/) • [D2](https://www.facebook.com/iCodeguru/videos/1828589170957931/) • [D5](https://www.facebook.com/iCodeguru/videos/763219225757060/) \| **W2:** [D1](https://www.facebook.com/iCodeguru/videos/1889326324919930/) • [D1b](https://www.facebook.com/iCodeguru/videos/408551482200818/) • [D2](https://www.facebook.com/iCodeguru/videos/843271281069796/) • [D3](https://www.facebook.com/iCodeguru/videos/1151321679510475/) • [D4](https://www.facebook.com/iCodeguru/videos/863281545707140/) • [D5](https://www.facebook.com/iCodeguru/videos/794449629162205/) \| **W3:** [D1](https://www.facebook.com/iCodeguru/videos/409667202104324/) • [D5](https://www.facebook.com/iCodeguru/videos/991302216122492/)<br>**W4:** [D1](https://www.facebook.com/iCodeguru/videos/385353554565614/) • [D2](https://www.facebook.com/iCodeguru/videos/1234272844605423/) • [D3](https://www.facebook.com/share/v/svqcZD8EGY41hyP3/) • [D5](https://www.facebook.com/iCodeguru/videos/1182241933109590/) \| **W5:** [D1](https://www.facebook.com/iCodeguru/videos/800773178838246/) • [D2](https://www.facebook.com/iCodeguru/videos/856998569687930/) • [D3](https://www.facebook.com/iCodeguru/videos/347118865161283/) • [D4](https://www.facebook.com/iCodeguru/videos/983277393595715/)<br>**W6:** [D1](https://www.facebook.com/share/v/1PoR4AiEdEQhQBmH/) • [D2](https://www.facebook.com/iCodeguru/videos/1577325416182066/) • [D3](https://www.facebook.com/iCodeguru/videos/485019524485313/) • [D5](https://www.facebook.com/iCodeguru/videos/1295973164710652/) \| **W7:** [D2](https://www.facebook.com/iCodeguru/videos/2213567865690427/) • [D3](https://www.facebook.com/share/v/S6fr8SXP8E4xD4HE/) • [D5](https://www.facebook.com/share/v/ANRu9hkb2323Mb5x/) \| **W8:** [D1](https://www.facebook.com/iCodeguru/videos/414013561180383/) • [D2](https://www.facebook.com/iCodeguru/videos/472102995589085/) • [D4](https://www.facebook.com/iCodeguru/videos/26683206071292885/) • [D5](https://www.facebook.com/share/v/syEHZbsshu6dM4fz/) \| **W9:** [D1](https://www.facebook.com/iCodeguru/videos/882091180447361/) • [D2](https://www.facebook.com/share/v/ALtfgH2BCVE4vMox/) • [D3](https://www.facebook.com/iCodeguru/videos/7998535383567962/) |
+| **Workshops** | [Mastering Databricks & Apache Spark ETL](https://fb.watch/wGRC_eQcKQ/) |
+| **IELTS (4pm)** | [D1: Intro](https://fb.watch/wZ1Lnf9NjM/) • [D2: Listening](https://fb.watch/wZ1EKcRSak/) • [D3: QnA](https://fb.watch/w_8Xlz5ez-/) • [Day 4](#) • [Day 5](#) |
+| **IELTS (Track 2)** | [Day 1](https://www.youtube.com/watch?v=BtGEOdt1mnQ&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=1&pp=iAQB) • [Day 2](https://www.youtube.com/watch?v=ieHWnw9qbtw&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=2&pp=iAQB0gcJCRUKAYcqIYzv) • [Day 3](https://www.youtube.com/watch?v=4DIyRNrs5Ug&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=3&pp=iAQB) • [Day 4](https://www.youtube.com/watch?v=YhGEShgid1Y&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=4&pp=iAQB) • [Day 5](https://www.youtube.com/watch?v=gstzvBDFzYU&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=5&pp=iAQB) |
+| **IELTS Writing** | [D1: Task 1](https://youtu.be/gstzvBDFzYU?si=SXZERh5AIiz4IQfx) • [D2: Task 2](https://youtu.be/YhGEShgid1Y?si=mk1LGnMr8tE5CcKU) • [D3: Practice](https://youtu.be/4DIyRNrs5Ug?si=aoaQF6wrXPwOQFmu) • [D4: Timed](https://www.youtube.com/watch?v=XlKryGIlp1c&list=PLBXi_ryTbHgpIQkoKyExNTQtdQeGfZYHt&index=4) • [D5: Mock](https://youtu.be/ieHWnw9qbtw?si=cKVynmj-XSJ9myoP) |
+
 ---
 
 * **Google Summer of Code 2025 (1.3% Acceptance)**: Contributed to Google’s Chromium project under the mentorship of two Google engineers for seven months — [Project Link](https://summerofcode.withgoogle.com/programs/2025/projects/LzP98Ubl).
@@ -103,7 +46,7 @@
         <img src="https://d3mxt5v3yxgcsr.cloudfront.net/courses/18061/course_18061_image.png" alt="Matplotlib"  width="150px" height="100px">
     </td>
 </tr>
- 
+
 <tr>
     <td align='center' width="190">
         <img src="./Images/JS.jpg" alt="Javascript" width="150px" height="100px">
@@ -219,4 +162,3 @@
 <a href="https://www.linkedin.com/in/mohsaqlain/"><img src="https://img.shields.io/badge/-Moh%20Saqlain-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:2mesaqlain@gmail.com"><img src="https://img.shields.io/badge/-2mesaqlain@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 </p>
-  
