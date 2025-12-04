@@ -7,43 +7,20 @@
 | [Codeforces for Competitive Programming](#) (Planning to start) |
 | [Mastering DSA from Begineer to Advance](#) (Starting this Monday) |
 | [IELTS_Exams_Volunteer_Teaching](https://github.com/MohSaqlainn/IELTS_exams_Volunteer-teaching) (On Going)          |
-
-
-- Contributed to local/global startups as Software Engineer.
-- Solved 175+ Data Structures & Algorithms problems on **[Leetcode](https://leetcode.com/MuhammadSaqlain-Dev/)**.
-- **@[iCodeGuru](https://icode.guru/)**: Offered volunteer teaching in Python and DSA, IELTS and moderated many sessions.
-- **@lablab.ai**: [Participated/ Lead](https://lablab.ai/u/@muhammad_saqlain937) in multiple AI International Hackathons with a global team of six.
-- Participated in various international competitive programming contests, including the **UC Berkeley Calico Competition, META Hacker Cup 2024, ICPC International 2024, and MIT Informatics Tournament 2025**, achieving strong performance in each.
+Got it — you want the same simple bullet-style format.
+Here’s your achievements rewritten exactly in that style, clean and GitHub-ready:
 
 ---
 
-## 🏆 Achievements
-
-* **Google Summer of Code 2025 (1.3% Acceptance):** Contributed to Google’s Chromium project through **GSoC 2025**, working under the mentorship of two Google engineers for seven months.
-  Project Link: [Google's Chromium Project](https://summerofcode.withgoogle.com/programs/2025/projects/LzP98Ubl)
-
-* **Official Chromium Contributor:** Earned *[saqlain@chromium.org](mailto:saqlain@chromium.org)* email for open-source contributions to the Chromium project.
-
-* **Stanford Code in Place (Instructor):** Selected by Stanford to teach the prestigious **CS106A Python course** to a cohort of 11–15 students from 10 countries.
-  Credential: [CS106A Credential](https://digitalcredential.stanford.edu/check/0A2538E3CBA7E1F50433E4F9C16E88DEE82C415BD434D52135CCF0901BBE53DFYWZOcDc3dkZ2UGNNS3Byb2ptSFR2L3l1NTB5Vk1XMEd1Vk4vMlZQNDR3MnNPTVRN)
-
-* **ICPC Asia Topi Regional 2024:** Qualified for the ICPC Asia Topi Online Preliminary Contest and advanced to the **Regional 2024** round.
-  Link: [ICPC Asia Topi Regional](https://www.linkedin.com/posts/musaqlain_icpcasiatopiregional-competitiveprogramming-activity-7291815703014207488-xgRQ)
-
-* **CALICO 2024 (UC Berkeley):** Won a **Bronze Award** by solving 6 problems and ranking **252/850+ teams** from 48 countries and 25 U.S. states.
-  Link: [CALICO 2024](https://www.linkedin.com/feed/update/urn:li:activity:7266337039162253312)
-
-* **MIT Informatics Tournament 2025:** Ranked **73rd out of 500+ teams** worldwide.
-  Link: [MIT Informatics Tournament 2025](https://www.linkedin.com/feed/update/urn:li:activity:7287722976123219968/)
-
-* **English Proficiency:** Scored **7.5 overall (C1 Advanced)** on the IELTS exam.
-  Score Report: [IELTS Result](https://drive.google.com/file/d/1gwIfBDQiRGJTEm0wkXrqSTne2BmKqUrs/view?usp=sharing)
-
-* **Algorithmic Problem Solving:** Solved **200+** problems across platforms including LeetCode and Codeforces.
-  LeetCode: [musaqlain](https://leetcode.com/u/musaqlain/)
-
-* **Hackathons:** Participated in **6 international hackathons**, collaborated with global teams, and led one of the AI events.
-  Events: [lablab.ai Profile](https://lablab.ai/u/@muhammad_saqlain937)
+* **Google Summer of Code 2025 (1.3% Acceptance)**: Contributed to Google’s Chromium project under the mentorship of two Google engineers for seven months — [Project Link](https://summerofcode.withgoogle.com/programs/2025/projects/LzP98Ubl).
+* **Official Chromium Contributor**: Earned the *[saqlain@chromium.org](mailto:saqlain@chromium.org)* contributor email through consistent contributions to the Chromium project.
+* **@Stanford Code in Place**: Selected to teach the **CS106A Python course** to a cohort of 11–15 students from 10 countries — [Credential](https://digitalcredential.stanford.edu/check/0A2538E3CBA7E1F50433E4F9C16E88DEE82C415BD434D52135CCF0901BBE53DFYWZOcDc3dkZ2UGNNS3Byb2ptSFR2L3l1NTB5Vk1XMEd1Vk4vMlZQNDR3MnNPTVRN).
+* **ICPC Asia Topi Regional 2024**: Qualified for the Asia Topi Online Preliminary Contest and advanced to compete in the Regional 2024 round — [Proof](https://www.linkedin.com/posts/musaqlain_icpcasiatopiregional-competitiveprogramming-activity-7291815703014207488-xgRQ).
+* **CALICO 2024 (UC Berkeley)**: Achieved a **Bronze Award**, solved 6 problems, and ranked **252/850+ teams** across 48 countries — [Link](https://www.linkedin.com/feed/update/urn:li:activity:7266337039162253312).
+* **MIT Informatics Tournament 2025**: Ranked **73rd out of 500+ teams** worldwide — [Link](https://www.linkedin.com/feed/update/urn:li:activity:7287722976123219968/).
+* **IELTS (English Proficiency)**: Achieved an overall **7.5 (C1 Advanced)** — [Score Report](https://drive.google.com/file/d/1gwIfBDQiRGJTEm0wkXrqSTne2BmKqUrs/view?usp=sharing).
+* **Algorithmic Problem Solving**: Solved **200+ algorithmic problems** across platforms like LeetCode and Codeforces — [Profile](https://leetcode.com/u/musaqlain/).
+* **Hackathons**: Participated in **6 international hackathons**, collaborated with global teams, and led one of the AI events — [Profile](https://lablab.ai/u/@muhammad_saqlain937).
 
 ---
 
