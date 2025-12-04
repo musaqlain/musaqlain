@@ -7,8 +7,7 @@
 | [Codeforces for Competitive Programming](#) (Planning to start) |
 | [Mastering DSA from Begineer to Advance](#) (Starting this Monday) |
 | [IELTS_Exams_Volunteer_Teaching](https://github.com/MohSaqlainn/IELTS_exams_Volunteer-teaching) (On Going)          |
-Got it — you want the same simple bullet-style format.
-Here’s your achievements rewritten exactly in that style, clean and GitHub-ready:
+
 
 ---
 
